@@ -2,9 +2,11 @@
 <h3 align="center">A fast & effecient full stack web and mobile developer</h3>
 
 
-[![Website](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://naceur-abdeljalil.com/)
+[![Website](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdeljalil-naceur-837113184/)
 
-[![Website](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://naceur-abdeljalil.com/)
+[![Website](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12872756/abn/)
+
+[![Website](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@dev4life.tech/)
 
 
 <!-- 
@@ -20,7 +22,7 @@
 
 - 📄 Know about my experiences [https://naceur-abdeljalil.com/](https://naceur-abdeljalil.com/)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
