@@ -2,10 +2,13 @@
 <h3 align="center">A fast & effecient full stack web and mobile developer</h3>
 
 
-[![Website](WEB SITE)](https://naceur-abdeljalil.com/)
+[![Website](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://naceur-abdeljalil.com/)
+
+[![Website](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://naceur-abdeljalil.com/)
 
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abnaceur" alt="abnaceur" /></a> </p> -->
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abnaceur" alt="abnaceur" /></a> </p> -->
 
 - 🌱 I’m currently learning **Algorithms**
 
