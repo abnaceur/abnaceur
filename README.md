@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12872756/abn/)
 
-[![Website](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@dev4life.tech/)
+[![Website](https://img.shields.io/badge/-meduim-FE7A16?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@dev4life.tech/)
 
 
 <!-- 
