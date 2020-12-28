@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="color:white" align="left">
 <a href="https://linkedin.com/in/abdeljalil-naceur-837113184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdeljalil-naceur-837113184/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12872756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12872756" height="30" width="40" /></a>
 <a href="https://medium.com/@dev4life.tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dev4life.tech" height="30" width="40" /></a>
